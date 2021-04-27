@@ -1,1 +1,3 @@
 # TicTacToe-ReactNativeLearn
+
+npm start
